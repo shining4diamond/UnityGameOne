@@ -18,7 +18,7 @@ public class Spawner : MonoBehaviour
     int z1  =   -5;
     int z2  =   5;
     
-    // Start is called before the first frame update
+    // Start is called before the first frame update sdffdsf
     void Start()
     {
         Debug.Log(gameObject.name + ": \"Sono spawnato\" ", gameObject);
